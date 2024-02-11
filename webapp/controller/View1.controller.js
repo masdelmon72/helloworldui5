@@ -11,7 +11,7 @@ sap.ui.define([
             onInit: function () {
 
             },
-            onPress: function () {
+            onAlertMessageBoxPress: function () {
               MessageBox.alert("You have been alerted!");
             }
 

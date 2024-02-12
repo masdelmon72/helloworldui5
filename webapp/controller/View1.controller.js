@@ -12,7 +12,7 @@ sap.ui.define([
         return Controller.extend("sap.btp.helloworldui5.controller.View1", {
             onInit: function () {
 
-            }
+            },
             onAlertMessageBoxPress: function () {
               MessageBox.alert("You have been alerted!");
             }
